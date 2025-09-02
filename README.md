@@ -32,14 +32,14 @@
 
 ## Table of contents
 
-- [Overview](#overview)
-- [Features](#features)
-- [Requirements](#requirements)
-- [Installation & Compilation](#installation&compilation)
-- [Examples](#examples)
-  - [Quick Tutorial](#quick-tutorial)
-- [Contribution](#contribution)
-- [License](#license)
+- [Overview](#Overview)
+- [Features](#Features)
+- [Requirements](#Fequirements)
+- [Installation & Compilation](#Installation&Compilation)
+- [Examples](#Examples)
+  - [Quick Tutorial](#Quick-Tutorial)
+- [Contribution](#Contribution)
+- [License](#License)
 
 ## 📌 Overview
 
