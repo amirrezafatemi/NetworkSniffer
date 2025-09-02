@@ -37,7 +37,7 @@
 - [Requirements](#-requirements)
 - [Installation & Compilation](#-installation--compilation)
 - [Examples](#-example)
-  - [Quick Tutorial](#-quick-tutorial)
+  - [Quick Tutorial](#quick-tutorial)
 - [Contribution](#-contribution)
 - [License](#-license)
 
