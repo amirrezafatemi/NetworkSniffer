@@ -32,14 +32,14 @@
 
 ## Table of contents
 
-- [Overview](#overview)
-- [Features](#features)
-- [Requirements](#requirements)
-- [Installation & Compilation](#installation--compilation)
-- [Examples](#example)
-  - [Quick Tutorial](#quick-tutorial)
-- [Contribution](#contribution)
-- [License](#license)
+- [Overview](#-overview)
+- [Features](#-features)
+- [Requirements](#-requirements)
+- [Installation & Compilation](#-installation--compilation)
+- [Examples](#-example)
+  - [Quick Tutorial](#-quick-tutorial)
+- [Contribution](#-contribution)
+- [License](#-license)
 
 ## 📌 Overview
 
@@ -137,7 +137,7 @@ Alpine Linux
    gcc -o devsfinder devsfinder.c -l pcap
 ```
 
-## Example
+## 💡 Example
 ### Quick Tutorial
 It's easy to use.
 After the compilation, you should be able to execute the `./networksniffer` .
@@ -160,7 +160,7 @@ sudo ./networksniffer <interface> (<interface> varies. it maybe 'eth0', 'wlan0',
 ``` 
 
 
-## Contribution
+## 🤝 Contribution
 I personally believe this project hasn't reach its full potentials. In future, it's feature will expand to scan different packets' types. 
 >Actually It took me long to program this much lonely, so it may also take time
 >to add more features namely more and other packets' type supporting, filter feature 
@@ -169,5 +169,5 @@ I personally believe this project hasn't reach its full potentials. In future, i
 >shown results to  a .cap file and etc.
 >
 Any contribution to this project is welcome right after your request is approved by me, Amirreza.
-## License
+## 📜 License
 NetworkSniffer is released under the [GNU GENERAL PUBLIC LICENSE v2.0](https://opensource.org/license/gpl-2-0).
