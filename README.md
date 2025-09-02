@@ -29,6 +29,7 @@
 ### Simple and Flexible Packet Analyzer
 
 >A simple yet handy **network packet sniffer** written in C that captures and analyzes packets traversing your network interface using [libpcap](https://www.tcpdump.org/). It allows network users learn about a specific protocol.
+>If you don't know what it is [here](https://en.wikipedia.org/wiki/Packet_analyzer) is a quick reference 
 
 ## Table of contents
 
