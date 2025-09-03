@@ -166,10 +166,10 @@ sudo ./networksniffer <interface> (<interface> varies. it maybe 'eth0', 'wlan0',
 ## 🤝 Contribution
 I personally believe this project hasn't reach its full potentials. In future, it's feature will expand to scan different packets' types. 
 >Actually It took me long to program this much lonely, so it may also take time
->to add more features namely more and other packets' type supporting, filter feature 
+>to add more features namely support for additional packet types, filter feature 
 >to help users see  what protocols should be captured( btw in my code, there are commented lines
 >that if you use it with the correct filters defined by [libpcap filter guide](https://www.tcpdump.org/manpages/pcap-filter.7.html), it will do the filtering), saving 
->shown results to  a .cap file and etc.
+>captured results to a `.cap` file and so on.
 >
 Any contribution to this project is welcome right after your request is approved by me, Amirreza.
 ## 📜 License
