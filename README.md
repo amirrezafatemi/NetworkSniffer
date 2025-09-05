@@ -154,12 +154,12 @@ If you don't know your current interfaces, try running ./devsfinder
 If you don't know your available NIC's on your system, try `./devsfinder` .
 Then after requiring your favorable  network sniffer to sniff packets, 
 execute this command :
-\
+
 
 
 **NOTICE : YOU WILL NEED TO BE A SUDOER TO RUN IT**
 ```
-sudo ./networksniffer <interface> (<interface> varies. it maybe 'eth0', 'wlan0', 'enp2s0 and etc )
+sudo ./networksniffer <interface> (<interface> varies. it may be 'eth0', 'wlan0', 'enp2s0 and etc )
 ``` 
 
 
