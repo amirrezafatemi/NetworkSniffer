@@ -152,7 +152,7 @@ Options:
 If you don't know your current interfaces, try running ./devsfinder   
 ```
 If you don't know your available NIC's on your system, try `./devsfinder` .
-Then after requiring your favorable  network sniffer to sniff packets, 
+Then after requiring your favorable network interface to sniff packets, 
 execute this command :
 
 
