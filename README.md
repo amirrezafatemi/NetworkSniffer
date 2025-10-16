@@ -132,7 +132,7 @@ Alpine Linux
    I also provided you a secondary tool named `devsfinder`.
    It simply shows all of your network interfaces.
    
-   To use this tool run:
+   To compile this execute the following command:
    
 ```bash
    gcc -o devsfinder devsfinder.c -l pcap
